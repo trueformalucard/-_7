@@ -45,7 +45,7 @@ print(f"Самое часто встречающееся слово: '{most_comm
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_7/sam1.jpg)
+![Меню](https://github.com/trueformalucard/-_7/blob/main/sam1.py)
 
 ## Выводы
 
@@ -95,7 +95,7 @@ while True:
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_7/sam2.jpg)
+![Меню](https://github.com/trueformalucard/-_7/blob/main/sam2.jpg)
 
 ## Выводы
 open("expenses.txt", "a") - открытие файла для добавления данных
@@ -129,7 +129,7 @@ print(f"{line_count} lines")
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_7/sam3.jpg)
+![Меню](https://github.com/trueformalucard/-_7/blob/main/sam3.jpg)
 
 ## Выводы
 file.readlines() - чтение всех строк файла
@@ -165,7 +165,7 @@ print(text)
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_7/sam4.jpg)
+![Меню](https://github.com/trueformalucard/-_7/blob/main/sam4.jpg)
 
 ## Выводы
 file.read().split() - чтение запрещенных слов из файла в список
@@ -236,7 +236,7 @@ while True:
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_7/sam5.jpg)
+![Меню](https://github.com/trueformalucard/-_7/blob/main/sam5.jpg)
 
 ## Выводы
 ord(char) - получение кода символа для шифрования
